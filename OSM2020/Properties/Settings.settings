@@ -1,0 +1,51 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="OSM2020.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="AnacondaPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\nekko\anaconda3\Scripts\activate.bat</Value>
+    </Setting>
+    <Setting Name="AnacondaEnv" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="GraphGeneratorFolderPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:/Users/nekko/Documents/TakadamaLab/OSM/OSM2020/OSM2020/Resources/PythonScript/GraphGenerator/</Value>
+    </Setting>
+    <Setting Name="LayoutGeneratorFolderPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:/Users/nekko/Documents/TakadamaLab/OSM/OSM2020/OSM2020/Resources/PythonScript/LayoutGenerator/</Value>
+    </Setting>
+    <Setting Name="lab_path" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\Anaconda3\Scripts\activate.bat</Value>
+    </Setting>
+    <Setting Name="home_path" Type="System.String" Scope="User">
+      <Value Profile="(Default)">G:\ProgramData\Anaconda3\Scripts\activate.bat</Value>
+    </Setting>
+    <Setting Name="kaigi_path" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\ProgramData\Anaconda3\Scripts\activate.bat</Value>
+    </Setting>
+    <Setting Name="note_path" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\majit\Anaconda3\Scripts\activate.bat </Value>
+    </Setting>
+    <Setting Name="RawGraphFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">graph.json</Value>
+    </Setting>
+    <Setting Name="WorkingFolderPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">./Working/</Value>
+    </Setting>
+    <Setting Name="RawGraphFlag" Type="System.String" Scope="User">
+      <Value Profile="(Default)">graph_flag</Value>
+    </Setting>
+    <Setting Name="LayoutFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">position.csv</Value>
+    </Setting>
+    <Setting Name="LayoutFlag" Type="System.String" Scope="User">
+      <Value Profile="(Default)">layout_flag</Value>
+    </Setting>
+    <Setting Name="TmpGraphFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">tmp_graph.json</Value>
+    </Setting>
+    <Setting Name="OutputLogPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">./OutputLog</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
